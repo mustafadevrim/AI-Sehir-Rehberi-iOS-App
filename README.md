@@ -45,7 +45,7 @@ Xcode'da CMD + R tuşlarına basarak simülatörde başlatın.
 
 ---Nasıl Kullanılır?---
 
-1-Sohbet Edin: "Ders çalışıcağım sessiz bir yer arıyorum" veya "Şuan acıktığımı hissediyorum" vb cümleler yazın.
-2-AI Karar Versin: Yapay zeka bunu "Kütüphane" "Restoran" olarak yorumlayacaktır.
-3-Keşfedin: Haritada size en yakın ve en uygun yerler pinlenecektir.
-4-Rota Çizin: Bir mekana tıklayarak yürüme/araç süresini görün ve navigasyonu başlatın.
+1.Sohbet Edin: "Ders çalışıcağım sessiz bir yer arıyorum" veya "Şuan acıktığımı hissediyorum" vb cümleler yazın.
+2.AI Karar Versin: Yapay zeka bunu "Kütüphane" "Restoran" olarak yorumlayacaktır.
+3.Keşfedin: Haritada size en yakın ve en uygun yerler pinlenecektir.
+4.Rota Çizin: Bir mekana tıklayarak yürüme/araç süresini görün ve navigasyonu başlatın.
