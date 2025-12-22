@@ -1,6 +1,6 @@
 AI Destekli Şehir Rehberi (iOS)
 
-Bu proje, kullanıcının o anki ruh haline veya isteğine göre (örn: "Kafa dinlemek istiyorum", "Canlı müzik dinlemek istiyorum") Google Gemini AI kullanarak niyeti analiz eden ve Apple Haritalar (MapKit) üzerinde en uygun mekanları listeleyen akıllı bir iOS uygulamasıdır.
+Bu proje, kullanıcının o anki ruh haline veya isteğine göre (örn: "Bugün doğayla iç içe olmak istiyorum", "Canlı müzik dinlemek istiyorum") Google Gemini AI kullanarak niyeti analiz eden ve Apple Haritalar (MapKit) üzerinde en uygun mekanları listeleyen akıllı bir iOS uygulamasıdır.
 
 ---Özellikler---
 
