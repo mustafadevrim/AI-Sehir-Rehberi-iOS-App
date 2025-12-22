@@ -16,9 +16,13 @@ Navigasyon: Seçilen mekana yürüyerek veya araçla ne kadar sürede gidileceğ
 ---Kullanılan Teknolojiler---
 
 Dil: Swift 
+
 UI: UIKit 
+
 Harita: MapKit, CoreLocation 
+
 Yapay Zeka: Google Generative AI SDK (Gemini Pro) 
+
 Versiyon Kontrol: Git & GitHub 
 
 ---Kurulum ve Çalıştırma---
