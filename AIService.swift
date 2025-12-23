@@ -11,7 +11,7 @@ import GoogleGenerativeAI
 
 class AIService {
 
-    let model = GenerativeModel(name: "gemini-pro", apiKey: "AIzaSyDqHfvZ-144f9qB8PBW0eXean6aJjoAuZg")
+    let model = GenerativeModel(name: "gemini-pro", apiKey: "BURAYA_SIZIN_API_KEYINIZ")
     
     // --- KEYWORD EXTRACTOR ---
     func extractSearchKeyword(userPreference: String, completion: @escaping (String) -> Void) {
