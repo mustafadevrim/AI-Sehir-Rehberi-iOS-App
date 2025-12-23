@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Sehir-Rehberi
 //
-//  Created by Mustafa Devrim Yıldız on 22.12.2025.
+//  Created by Mustafa Devrim Yıldız on 18.12.2025.
 //
 
 import UIKit
